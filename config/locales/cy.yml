@@ -95,7 +95,7 @@ cy:
     roles:
       admin: Gweinyddwr
       group: Grŵp
-      moderator: Safonwr
+      moderator: Owner
     unavailable: Proffil ddim ar gael
     unfollow: Dad-ddilyn
   admin:

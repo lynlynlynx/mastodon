@@ -90,7 +90,7 @@ uk:
       admin: Адміністратор
       bot: Бот
       group: Група
-      moderator: Мод
+      moderator: Owner
     unavailable: Профіль недоступний
     unfollow: Відписатися
   admin:

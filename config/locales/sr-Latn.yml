@@ -21,7 +21,7 @@ sr-Latn:
     posts_with_replies: Tutovi i odgovori
     roles:
       admin: Administrator
-      moderator: Moderator
+      moderator: Owner
     unfollow: Otprati
   admin:
     account_moderation_notes:

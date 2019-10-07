@@ -26,7 +26,7 @@ he:
     posts_with_replies: חצרוצים ותגובות
     roles:
       admin: מנהל
-      moderator: מנחה
+      moderator: Owner
     unfollow: הפסקת מעקב
   admin:
     account_moderation_notes:

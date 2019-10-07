@@ -76,7 +76,7 @@ oc:
       admin: Admin
       bot: Robòt
       group: Grop
-      moderator: Moderador
+      moderator: Owner
     unavailable: Perfil indisponible
     unfollow: Quitar de sègre
   admin:

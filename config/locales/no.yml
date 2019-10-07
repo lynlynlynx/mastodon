@@ -73,7 +73,7 @@
     roles:
       admin: Administrator
       group: Gruppe
-      moderator: Moderere
+      moderator: Owner
     unavailable: Profilen er utilgjengelig
     unfollow: Slutt å følge
   admin:

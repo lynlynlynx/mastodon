@@ -84,7 +84,7 @@ sk:
     roles:
       admin: Správca
       group: Skupina
-      moderator: Moderátor
+      moderator: Owner
     unavailable: Profil nieje dostupný
     unfollow: Prestaň sledovať
   admin:

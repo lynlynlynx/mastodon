@@ -53,7 +53,7 @@ sr:
     roles:
       admin: Администратор
       bot: Бот
-      moderator: Модератор
+      moderator: Owner
     unfollow: Отпрати
   admin:
     account_actions:

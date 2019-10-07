@@ -81,7 +81,7 @@ es:
     roles:
       admin: Administrador
       group: Grupo
-      moderator: Moderador
+      moderator: Owner
     unavailable: Perfil no disponible
     unfollow: Dejar de seguir
   admin:
