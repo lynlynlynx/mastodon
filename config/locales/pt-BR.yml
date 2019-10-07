@@ -83,7 +83,7 @@ pt-BR:
       admin: Admin
       bot: Robô
       group: Grupo
-      moderator: Mod
+      moderator: Owner
     unavailable: Perfil indisponível
     unfollow: Deixar de seguir
   admin:

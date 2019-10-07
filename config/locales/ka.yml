@@ -37,7 +37,7 @@ ka:
     roles:
       admin: ადმინისტრატორი
       bot: ბოტი
-      moderator: მოდერატორი
+      moderator: Owner
     unfollow: ნუღარ მიჰყვები
   admin:
     account_moderation_notes:

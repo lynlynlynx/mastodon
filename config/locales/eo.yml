@@ -76,7 +76,7 @@ eo:
       admin: Administranto
       bot: Roboto
       group: Grupo
-      moderator: Kontrolanto
+      moderator: Owner
     unavailable: Profilo ne disponebla
     unfollow: Ne plu sekvi
   admin:

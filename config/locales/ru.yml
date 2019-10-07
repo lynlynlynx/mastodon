@@ -91,7 +91,7 @@ ru:
       admin: Администратор
       bot: Бот
       group: Группа
-      moderator: Модератор
+      moderator: Owner
     unavailable: Профиль недоступен
     unfollow: Отписаться
   admin:

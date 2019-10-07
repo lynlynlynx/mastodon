@@ -70,7 +70,7 @@ fi:
       admin: Ylläpitäjä
       bot: Botti
       group: Ryhmä
-      moderator: Moderaattori
+      moderator: Owner
     unavailable: Profiili ei saatavilla
     unfollow: Lopeta seuraaminen
   admin:

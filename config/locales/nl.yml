@@ -83,7 +83,7 @@ nl:
       admin: Beheerder
       bot: Bot
       group: Groep
-      moderator: Moderator
+      moderator: Owner
     unavailable: Profiel niet beschikbaar
     unfollow: Ontvolgen
   admin:

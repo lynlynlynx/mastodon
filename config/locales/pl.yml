@@ -91,7 +91,7 @@ pl:
       admin: Administrator
       bot: Bot
       group: Grupa
-      moderator: Moderator
+      moderator: Owner
     unavailable: Profil niedostępny
     unfollow: Przestań śledzić
   admin:

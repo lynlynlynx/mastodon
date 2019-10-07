@@ -83,7 +83,7 @@ fr:
       admin: Admin
       bot: Robot
       group: Groupe
-      moderator: Modérateur·trice
+      moderator: Owner
     unavailable: Profil non disponible
     unfollow: Ne plus suivre
   admin:

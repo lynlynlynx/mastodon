@@ -82,7 +82,7 @@ da:
       admin: Administrator
       bot: Robot
       group: Gruppe
-      moderator: Moderator
+      moderator: Owner
     unavailable: Profil utilgængelig
     unfollow: Følg ikke længere
   admin:

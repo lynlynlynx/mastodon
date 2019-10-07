@@ -79,7 +79,7 @@ eu:
       admin: Administratzailea
       bot: Bot-a
       group: Taldea
-      moderator: Moderatzailea
+      moderator: Owner
     unavailable: Profila ez dago eskuragarri
     unfollow: Utzi jarraitzeari
   admin:

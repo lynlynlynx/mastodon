@@ -83,7 +83,7 @@ ca:
       admin: Administrador
       bot: Bot
       group: Grup
-      moderator: Moderador
+      moderator: Owner
     unavailable: Perfil inaccessible
     unfollow: Deixa de seguir
   admin:

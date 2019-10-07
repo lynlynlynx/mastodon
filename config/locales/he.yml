@@ -27,7 +27,7 @@ he:
     reserved_username: שם המשתמש שמור
     roles:
       admin: מנהל
-      moderator: מנחה
+      moderator: Owner
     unfollow: הפסקת מעקב
   admin:
     account_moderation_notes:

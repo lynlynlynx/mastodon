@@ -83,7 +83,7 @@ en:
       admin: Admin
       bot: Bot
       group: Group
-      moderator: Mod
+      moderator: Owner
     unavailable: Profile unavailable
     unfollow: Unfollow
   admin:

@@ -79,7 +79,7 @@ ja:
       admin: Admin
       bot: Bot
       group: Group
-      moderator: Mod
+      moderator: Owner
     unavailable: プロフィールは利用できません
     unfollow: フォロー解除
   admin:

@@ -95,7 +95,7 @@ ar:
       admin: المدير
       bot: روبوت
       group: فريق
-      moderator: مُشرِف
+      moderator: Owner
     unavailable: الصفحة التعريفية غير متوفرة
     unfollow: إلغاء المتابعة
   admin:

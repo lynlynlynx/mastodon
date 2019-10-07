@@ -98,7 +98,7 @@ cy:
       admin: Gweinyddwr
       bot: Bot
       group: Grŵp
-      moderator: Safonwr
+      moderator: Owner
     unavailable: Proffil ddim ar gael
     unfollow: Dad-ddilyn
   admin:

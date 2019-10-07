@@ -183,7 +183,7 @@ el:
       role: Δικαιώματα
       roles:
         admin: Διαχειριστής
-        moderator: Συντονιστής
+        moderator: Owner
         staff: Προσωπικό
         user: Χρήστης
       search: Αναζήτηση

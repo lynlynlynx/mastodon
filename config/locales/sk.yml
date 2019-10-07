@@ -88,7 +88,7 @@ sk:
       admin: Správca
       bot: Bot
       group: Skupina
-      moderator: Moderátor
+      moderator: Owner
     unavailable: Profil nieje dostupný
     unfollow: Prestaň sledovať
   admin:

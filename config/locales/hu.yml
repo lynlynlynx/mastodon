@@ -85,7 +85,7 @@ hu:
       admin: Adminisztrátor
       bot: Bot
       group: Csoport
-      moderator: Moderátor
+      moderator: Owner
     unavailable: Nincs ilyen profil
     unfollow: Követés vége
   admin:

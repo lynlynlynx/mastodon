@@ -75,7 +75,7 @@ sl:
     roles:
       admin: Skrbnik
       bot: Robot
-      moderator: Mod
+      moderator: Owner
     unavailable: Profil ni na voljo
     unfollow: Prenehaj slediti
   admin:

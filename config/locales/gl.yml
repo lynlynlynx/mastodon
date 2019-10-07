@@ -83,7 +83,7 @@ gl:
       admin: Administradora
       bot: Bot
       group: Grupo
-      moderator: Moderadora
+      moderator: Owner
     unavailable: Perfil non dispoñíbel
     unfollow: Deixar de seguir
   admin:

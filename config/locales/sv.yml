@@ -76,7 +76,7 @@ sv:
       admin: Administratör
       bot: Robot
       group: Grupp
-      moderator: Moderator
+      moderator: Owner
     unavailable: Profilen är inte tillgänglig
     unfollow: Sluta följa
   admin:

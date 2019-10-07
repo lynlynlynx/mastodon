@@ -22,7 +22,7 @@ sr-Latn:
     reserved_username: Korisničko ime je rezervisano
     roles:
       admin: Administrator
-      moderator: Moderator
+      moderator: Owner
     unfollow: Otprati
   admin:
     account_moderation_notes:

@@ -90,7 +90,7 @@ cs:
       admin: Administrátor
       bot: Robot
       group: Skupina
-      moderator: Moderátor
+      moderator: Owner
     unavailable: Profil není dostupný
     unfollow: Přestat sledovat
   admin:
