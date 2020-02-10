@@ -7,9 +7,11 @@
 = simple_form_for current_user, url: settings_preferences_notifications_path, html: { method: :put, id: 'edit_notification' } do |f|
   = render 'shared/error_messages', object: current_user
 
-  %h4= t 'notifications.email_events'
+  - if current_user.staff?
+    %h4= t 'notifications.email_events'
 
-  %p.hint= t 'notifications.email_events_hint'
+  - if current_user.staff?
+    %p.hint= t 'notifications.email_events_hint'
 
   .fields-group
     = f.simple_fields_for :notification_emails, hash_to_object(current_user.settings.notification_emails) do |ff|
