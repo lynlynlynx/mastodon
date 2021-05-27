@@ -79,8 +79,8 @@ ja:
           no_access: すべてのリソースへのアクセスをブロックします
           sign_up_requires_approval: 承認するまで新規登録が完了しなくなります
         severity: このIPに対する措置を選択してください
-        text: ユーザーのためのルールや要件を記述してください。短くシンプルにしてください。
       rule:
+        text: ユーザーのためのルールや要件を記述してください。短くシンプルにしてください。
       sessions:
         otp: '携帯電話のアプリで生成された二段階認証コードを入力するか、リカバリーコードを使用してください:'
         webauthn: USBキーの場合は、必ず挿入し、必要に応じてタップしてください。
@@ -189,8 +189,8 @@ ja:
       invite_request:
         text: スパム防止のため承認制としています
       ip_block:
-        ip: IP
         comment: コメント
+        ip: IP
         severities:
           no_access: ブロック
           sign_up_requires_approval: 登録を制限
